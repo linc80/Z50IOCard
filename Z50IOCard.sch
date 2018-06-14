@@ -38,8 +38,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Z50Bus compatible I/O Card"
-Date "2018-05-06"
-Rev "3"
+Date "2018-06-14"
+Rev "4"
 Comp "LiNC"
 Comment1 "by Jon Langseth"
 Comment2 ""

@@ -3,7 +3,7 @@
   (general
     (links 180)
     (no_connects 0)
-    (area 103.124999 37.554999 203.275001 137.705001)
+    (area 100.965 29.93 239.05 154.330001)
     (thickness 1.6)
     (drawings 59)
     (tracks 746)
@@ -15,8 +15,8 @@
   (page A4)
   (title_block
     (title "Z50Bus compatible I/O Card")
-    (date 2018-05-06)
-    (rev 2)
+    (date 2018-06-14)
+    (rev 4)
     (company LiNC)
   )
 
