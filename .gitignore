@@ -1,0 +1,7 @@
+fp-lib-table
+*.bak
+*-cache.lib
+*.pdf
+*.drl
+*.zip
+*.gbr

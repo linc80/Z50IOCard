@@ -1,0 +1,4 @@
+Because Gerbers are generated from the KiCad files, there's no reason
+to keep them in the repository. Because of this, Gerber files are 
+ignored by the .gitignore file. This file is a placeholder to make
+git track the directory :)
