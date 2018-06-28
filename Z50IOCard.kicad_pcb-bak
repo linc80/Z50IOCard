@@ -3,7 +3,7 @@
   (general
     (links 180)
     (no_connects 0)
-    (area 100.965 29.93 239.05 154.330001)
+    (area 103.124999 37.554999 203.275001 137.705001)
     (thickness 1.6)
     (drawings 59)
     (tracks 746)
@@ -1371,6 +1371,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model Housings_DIP.3dshapes/DIP-20_W7.62mm.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module Housings_DIP:DIP-20_W7.62mm_Socket_LongPads (layer F.Cu) (tedit 59C78D6B) (tstamp 5AAED2A5)
@@ -1451,6 +1456,11 @@
     (pad 20 thru_hole oval (at 7.62 0 270) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 1 VCC))
     (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-20_W7.62mm_Socket.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model Housings_DIP.3dshapes/DIP-20_W7.62mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1539,6 +1549,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model Housings_DIP.3dshapes/DIP-20_W7.62mm.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module Housings_DIP:DIP-14_W7.62mm_Socket_LongPads (layer F.Cu) (tedit 59C78D6B) (tstamp 5AAED2CF)
@@ -1607,6 +1622,11 @@
     (pad 14 thru_hole oval (at 7.62 0 270) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 1 VCC))
     (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-14_W7.62mm_Socket.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model Housings_DIP.3dshapes/DIP-14_W7.62mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1889,7 +1909,7 @@
       (net 60 "Net-(J1-Pad49)"))
     (pad 50 thru_hole oval (at 2.54 60.96) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 60 "Net-(J1-Pad49)"))
-    (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Straight_2x25_Pitch2.54mm.wrl
+    (model Pin_Headers.3dshapes/Pin_Header_Angled_2x25_Pitch2.54mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
